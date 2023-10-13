@@ -1,0 +1,14 @@
+body
+{
+    background-image:url("background.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h3
+{
+    font-size: 25px !important;
+}
+.btn-info:hover
+{
+    background-color: red;
+}
